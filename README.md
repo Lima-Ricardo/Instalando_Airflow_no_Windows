@@ -40,7 +40,7 @@ Passo 05: Procure pela opção "Fetching docker-compose.yaml", e logo abaixo cli
 (foto 03) 
 
 Passo 06: Copie todo o conteúdo da página e cole dentro do arquivo que você criou no editor de código docker-compose.yaml (foto 04)
-Nota: O Arquivo criado está no passo 03 desta sessão.
+Nota: O Arquivo criado está no passo 03 desta sessão. (Foto 05)
 
 
 Passo 07: Abra o PowerShell como admin e vá até o diretório criado anteriormente e digite o seguinte comando:
