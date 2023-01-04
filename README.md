@@ -49,7 +49,7 @@ docker-compose up airflow-init
 Nota: O comando acima fará o sistema baixar e instalar toda a estrutura do Airflow e pode demorar um pouco, tudo vai depender da sua conexão e hardware.
 
 Passo 08: Após a instalação digite o seguinte comando para fazer o docker subir o serviço:
-docker-compose up
+docker-compose up 
 
 Passo 09: Após o docker inicializar o container vá até o navegador e digite o seguinte endereço:
 http://localhost:8080/home (endereço e porta padrão do airflow)
@@ -58,4 +58,4 @@ Nota: Se você fez tudo corretamente ele irá abrir a página do Airflow pedindo
 Login: airflow
 Senha: airflow
 
-Agora é só criar as suas DAG's na pasta dags utilizando o editor de código de sua prefrerência.
+Se quiser encerrar o Airflow basta ir no PowerShell e digitar: "docker-compose down" ou no dashboard e parar o serviço, no más agora é só criar as suas DAG's na pasta dags utilizando o editor de código de sua preferência.
