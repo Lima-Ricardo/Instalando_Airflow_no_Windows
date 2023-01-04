@@ -52,7 +52,7 @@ Passo 08: Após a instalação digite o seguinte comando para fazer o docker sub
 docker-compose up 
 
 Passo 09: Após o docker inicializar o container vá até o navegador e digite o seguinte endereço:
-http://localhost:8080/home (endereço e porta padrão do airflow)
+http://localhost:8080/home (endereço e porta padrão do airflow Foto 06) 
 
 Nota: Se você fez tudo corretamente ele irá abrir a página do Airflow pedindo login e senha.
 Login: airflow
